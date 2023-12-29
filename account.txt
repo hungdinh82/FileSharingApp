@@ -1,0 +1,7 @@
+test1 test1 1
+huy huy 1
+bhh123456 123 1
+bhh123 123 0
+123 123 1
+hoang hoang 1
+hung hung 1
